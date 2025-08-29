@@ -15,4 +15,4 @@ jobs:
       issues: write
       pull-requests: write
     uses: OERV-RVCI/RVCK-RAVA/.github/workflows/rvck-actions.yml@dev/rvck-guix-kernel-build
-    secrets: inherits
+    secrets: inherit
