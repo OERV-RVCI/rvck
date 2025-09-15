@@ -14,5 +14,5 @@ jobs:
     permissions:
       issues: write
       pull-requests: write
-    uses: OERV-RVCI/RVCK-RAVA/.github/workflows/rvck-actions.yml@main
+    uses: OERV-RVCI/RVCK-RAVA/.github/workflows/rvck-actions.yml@dev/issue-fetch-default-use-latest-commit
     secrets: inherit
