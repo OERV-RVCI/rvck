@@ -14,5 +14,5 @@ jobs:
     permissions:
       issues: write
       pull-requests: write
-    uses: OERV-RVCI/RVCK-RAVA/.github/workflows/rvck-actions.yml@lava-wait-attempts
+    uses: OERV-RVCI/RVCK-RAVA/.github/workflows/rvck-actions.yml@fix-hash-wrong
     secrets: inherit
